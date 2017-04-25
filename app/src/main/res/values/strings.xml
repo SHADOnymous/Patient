@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Patient</string>
+    <string name="latitude">Latitude:</string>
+    <string name="unknown">unknown</string>
+    <string name="longitute">Longitute:</string>
+    <string name="unknown_">unknown</string>
+</resources>
